@@ -1,2 +1,1 @@
 # ESC12_ComputerProgrammingFundamentals
-# ESC12_ComputerProgrammingFundamentals
